@@ -22,7 +22,7 @@
     <li>🔭 Currently building <strong>Tal9i7.tn</strong>, a scalable AWS-hosted website</li>
     <li>🌱 Learning <strong>Go</strong>, <strong>Vault</strong>, and <strong>AWS CDK</strong></li>
     <li>📜 Certified in <strong>CKA</strong>, <strong>AWS SAA</strong>, <strong>AWS CCP</strong>, <strong>Azure Fundamentals</strong> and <strong>Cisco Network Security</strong></li>
-    <li>📄 <a href="https://firasbennacib.com/files/Firas_Ben_Nacib_Resume.pdf" target="_blank">My resume</a></li>
+    <li>📄 <a href="https://firasbennacib.com/files/Firas_Ben_Nacib_Resume_EN.pdf" target="_blank">My resume</a></li>
   </ul>
 </div>
 
