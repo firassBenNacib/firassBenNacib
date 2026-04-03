@@ -140,3 +140,17 @@
     <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firassBenNacib&theme=react" />
   </a>
 </div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firassBenNacib&theme=tokyonight" height="170" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firassBenNacib&theme=tokyonight" height="170" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
