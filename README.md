@@ -2,13 +2,19 @@
 <h3 align="center">Cloud & DevOps Engineer | Kubestronaut | AWS & Azure Certified</h3>
 
 <p align="center">
-  <a href="https://firasbennacib.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge" /></a>
-  <a href="mailto:bennacibfiras@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/firas-ben-nacib-27a858243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://firasbennacib.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge" />
+  </a>
+  <a href="mailto:bennacibfiras@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/firas-ben-nacib-27a858243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-Cloud/DevOps-brightgreen" />
+  <img src="https://img.shields.io/badge/focus-Cloud%20%26%20DevOps-brightgreen" />
   <img src="https://img.shields.io/badge/location-Tunisia-blue" />
 </p>
 
@@ -131,26 +137,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/firassBenNacib">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=firassBenNacib&show_icons=true&count_private=true&theme=react&hide=contribs" />
-  </a>
-  <br>
-  <a href="https://github.com/firassBenNacib">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=firassBenNacib&show_icons=true&count_private=true&langs_count=8&layout=compact&theme=react" />
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firassBenNacib&theme=react" />
-  </a>
-</div>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firassBenNacib&theme=tokyonight" height="170" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firassBenNacib&theme=tokyonight" height="170" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firassbennacib&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firassbennacib&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firassbennacib&theme=react)
 </div>
